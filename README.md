@@ -24,4 +24,4 @@ Whether it’s working on the API, DB, frontend or infrastructure, you’ll be d
 
 If you've got any questions about the role, feel free to email nathan.sainsbury@jisc.ac.uk, or contact me via [Linkedin](https://www.linkedin.com/in/nathansainsbury1996/).
 
-To apply for the role, send an application to Jisc, using our [Careers portal](https://jobs.jisc.ac.uk/Jisc/JobDescription/pxVxLAwcbBw).
+To apply for the role, send an application to Jisc, using our [careers portal](https://jobs.jisc.ac.uk/Jisc/JobDescription/pxVxLAwcbBw).
